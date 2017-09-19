@@ -1,25 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="10d5cd79-40da-41a6-9bdd-57eb32828de0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ng2-routing/app/about/about-user.component.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ng2-routing/app/about/about.component.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ng2-routing/app/app.component.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ng2-routing/app/app.routing.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ng2-routing/app/contact/contact.component.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ng2-routing/app/home/home.component.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ng2-routing/app/not-found/not-found.component.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ng2-routing/app/app.component.ts" afterPath="$PROJECT_DIR$/ng2-routing/app/app.component.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ng2-routing/app/app.module.ts" afterPath="$PROJECT_DIR$/ng2-routing/app/app.module.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ng2-routing/dist/app.component.js" afterPath="$PROJECT_DIR$/ng2-routing/dist/app.component.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ng2-routing/dist/app.component.js.map" afterPath="$PROJECT_DIR$/ng2-routing/dist/app.component.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ng2-routing/dist/app.module.js" afterPath="$PROJECT_DIR$/ng2-routing/dist/app.module.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ng2-routing/dist/app.module.js.map" afterPath="$PROJECT_DIR$/ng2-routing/dist/app.module.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ng2-routing/dist/main.js" afterPath="$PROJECT_DIR$/ng2-routing/dist/main.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ng2-routing/dist/main.js.map" afterPath="$PROJECT_DIR$/ng2-routing/dist/main.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ng2-routing/index.html" afterPath="$PROJECT_DIR$/ng2-routing/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ng2-routing/package.json" afterPath="$PROJECT_DIR$/ng2-routing/package.json" />
-    </list>
+    <list default="true" id="10d5cd79-40da-41a6-9bdd-57eb32828de0" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -32,100 +14,7 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ng2-routing/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="20">
-              <caret line="8" column="19" lean-forward="false" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="home.component.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ng2-routing/app/home/home.component.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="11" column="16" lean-forward="false" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="app.module.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ng2-routing/app/app.module.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="23" column="13" lean-forward="false" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
-              <folding>
-                <element signature="e#0#41#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="app.routing.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ng2-routing/app/app.routing.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="19" column="66" lean-forward="false" selection-start-line="19" selection-start-column="66" selection-end-line="19" selection-end-column="66" />
-              <folding>
-                <element signature="e#41#93#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="about.component.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ng2-routing/app/about/about.component.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-314">
-              <caret line="16" column="28" lean-forward="false" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="28" />
-              <folding>
-                <marker date="1505828556879" expanded="true" signature="834:969" ph="{...}" />
-                <marker date="1505828556879" expanded="true" signature="996:1066" ph="{...}" />
-                <marker date="1505828556879" expanded="true" signature="1130:1724" ph="..." />
-                <marker date="1505828556879" expanded="true" signature="1192:1709" ph="..." />
-                <marker date="1505828556879" expanded="true" signature="1293:1690" ph="..." />
-                <marker date="1505828556879" expanded="true" signature="1469:1646" ph="..." />
-                <marker date="1505828556879" expanded="true" signature="1544:1621" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ng2-routing/package.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="8" column="17" lean-forward="false" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="about-user.component.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ng2-routing/app/about/about-user.component.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="11" column="34" lean-forward="false" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="package-lock.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ng2-routing/package-lock.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -166,7 +55,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="NodeModulesDirectoryManager">
-    <handled-path value="$PROJECT_DIR$/ng2-routing/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="1936" />
@@ -212,47 +101,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="ng2-routing" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="routing" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="routing" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ng2-routing" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="routing" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="routing" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ng2-routing" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="about" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -361,12 +210,12 @@
       <updated>1505307958500</updated>
       <workItem from="1505307960285" duration="9287000" />
       <workItem from="1505813706010" duration="3323000" />
-      <workItem from="1505828289702" duration="2232000" />
+      <workItem from="1505828289702" duration="2438000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14842000" />
+    <option name="totallyTimeSpent" value="15048000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1936" y="34" width="1904" height="1056" extended-state="0" />
@@ -421,9 +270,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="460">
           <caret line="23" column="13" lean-forward="false" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -431,9 +278,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="380">
           <caret line="19" column="66" lean-forward="false" selection-start-line="19" selection-start-column="66" selection-end-line="19" selection-end-column="66" />
-          <folding>
-            <element signature="e#41#93#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -441,15 +286,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1140">
           <caret line="57" column="47" lean-forward="true" selection-start-line="57" selection-start-column="47" selection-end-line="57" selection-end-column="47" />
-          <folding>
-            <marker date="1505828556879" expanded="true" signature="834:969" ph="{...}" />
-            <marker date="1505828556879" expanded="true" signature="996:1066" ph="{...}" />
-            <marker date="1505828556879" expanded="true" signature="1130:1724" ph="..." />
-            <marker date="1505828556879" expanded="true" signature="1192:1709" ph="..." />
-            <marker date="1505828556879" expanded="true" signature="1293:1690" ph="..." />
-            <marker date="1505828556879" expanded="true" signature="1469:1646" ph="..." />
-            <marker date="1505828556879" expanded="true" signature="1544:1621" ph="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -497,9 +334,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="14" column="16" lean-forward="true" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -507,9 +342,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding>
-            <element signature="e#41#93#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -525,15 +358,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="940">
           <caret line="49" column="40" lean-forward="false" selection-start-line="49" selection-start-column="40" selection-end-line="49" selection-end-column="40" />
-          <folding>
-            <marker date="1505828556879" expanded="true" signature="834:969" ph="{...}" />
-            <marker date="1505828556879" expanded="true" signature="996:1066" ph="{...}" />
-            <marker date="1505828556879" expanded="true" signature="1130:1724" ph="..." />
-            <marker date="1505828556879" expanded="true" signature="1192:1709" ph="..." />
-            <marker date="1505828556879" expanded="true" signature="1293:1690" ph="..." />
-            <marker date="1505828556879" expanded="true" signature="1469:1646" ph="..." />
-            <marker date="1505828556879" expanded="true" signature="1544:1621" ph="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -575,11 +400,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ng2-routing/app/app.module.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
+        <state relative-caret-position="346">
           <caret line="23" column="13" lean-forward="false" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -611,9 +434,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="19" column="66" lean-forward="false" selection-start-line="19" selection-start-column="66" selection-end-line="19" selection-end-column="66" />
-          <folding>
-            <element signature="e#41#93#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -621,15 +442,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-314">
           <caret line="16" column="28" lean-forward="false" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="28" />
-          <folding>
-            <marker date="1505828556879" expanded="true" signature="834:969" ph="{...}" />
-            <marker date="1505828556879" expanded="true" signature="996:1066" ph="{...}" />
-            <marker date="1505828556879" expanded="true" signature="1130:1724" ph="..." />
-            <marker date="1505828556879" expanded="true" signature="1192:1709" ph="..." />
-            <marker date="1505828556879" expanded="true" signature="1293:1690" ph="..." />
-            <marker date="1505828556879" expanded="true" signature="1469:1646" ph="..." />
-            <marker date="1505828556879" expanded="true" signature="1544:1621" ph="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
